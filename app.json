@@ -67,11 +67,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "1942303"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "5621d2a5b0c49ae25db1770e5bc3e4fc"
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
@@ -79,7 +79,7 @@
     },
     "HELLBOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
-      "value": ""
+      "value": "0"
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
@@ -93,7 +93,7 @@
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": "1848068439:AAGE4U-cBGpqKVbR8VAfkNWti7UiBKECC_U"
+      "value": "0"
     },
     "TAG_LOGGER": {
       "description": "Make a group and add rose. Do /id and paste the chat id here.",
@@ -102,7 +102,7 @@
     },
     "BOT_USERNAME": {
       "description": "Make a bot from @BotFather and paste the username here.",
-      "value": "@HELLLLLLLLLBOTOPBOT"
+      "value": "0"
     },
     "YOUR_CHANNEL": {
       "description": "Fill your channel username(without @) to get this displayed on your Hell Alive.",
