@@ -39,16 +39,6 @@
       "value": "ON",
       "required": false
     },
-    "PMPERMIT_PIC": {
-      "description": "Paste the Telegraph link to show in pm permit message.",
-      "value": "0",
-      "required": false
-    },
-    "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @HELL_ID_BOT",
-      "value": "-1001366488506",
-      "required": false
-    },
     "SUDO_HANDLER": {
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": ","
@@ -95,24 +85,9 @@
       "description": "Make a bot from @BotFather and paste the bot token here.",
       "value": "0"
     },
-    "TAG_LOGGER": {
-      "description": "Make a group and add rose. Do /id and paste the chat id here.",
-      "value": "1814281189",
-      "required": false
-    },
     "BOT_USERNAME": {
       "description": "Make a bot from @BotFather and paste the username here.",
       "value": "0"
-    },
-    "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your Hell Alive.",
-      "value": "-1001366488506",
-      "required": false
-    },
-    "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your Hell Alive.",
-      "value": "-1001366488506",
-      "required": false
     },
     "SUDO_USERS": {
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
